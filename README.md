@@ -8,6 +8,8 @@ Pastas: `marca/`, `embeds/`, `posts/`, `motions/` e `emoji/`.
 
 ## marca
 
+- `marca/logo-halloween.png` — logo de Halloween (avatar do bot)
+
 ## embeds
 
 ## posts
