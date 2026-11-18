@@ -11,6 +11,7 @@ Pastas: `marca/`, `embeds/`, `posts/`, `motions/` e `emoji/`.
 - `marca/logo-halloween.png` — logo de Halloween (avatar do bot)
 - `marca/roblox-3d.png` — logo do Roblox em 3D (quadrado inclinado 15° com o furo), plástico roxo e rosa no ângulo dos ícones 3D do site; categoria "Roblox e itens virtuais" do middleman (512 px; `.blend` com o modelo)
 - `marca/instagram-3d.png` — logo do Instagram em 3D (placa com o símbolo branco em relevo), mesmo estilo; categoria "Redes sociais ou servidores" do middleman (512 px; `.blend` com o modelo)
+- `marca/outros-3d.png` — ícone 3D de "Outros" (grade 2×2 de blocos, um rosa), mesmo estilo dos logos 3D; filtro "Outros" da BlackList (512 px; `.blend` com o modelo)
 
 ## embeds
 
